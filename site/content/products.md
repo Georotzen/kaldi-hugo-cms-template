@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Aurorina Coffee Shop
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
